@@ -262,7 +262,7 @@ uniresolver:
         - did:kscirc:k12NqvVM9BX6AaMjPK1hUTUkKBWPBAUXAszTxdx7jDZPv4iqCZ1D
         - did:kscirc:k17qQYbApdfTdxsrS77k3sbFmJCWfJf7QrvZSfMaAmq6MWpbeGs
     - pattern: "^(did:ev:.+)$"
-      url: http://driver-did-ev:8080/1.0/identifiers/$1
+      url: http://driver-did-ev:8000/1.0/identifiers/$1
       testIdentifiers:
         - did:ev:bmM8apgHQD8cPbwNsMSJKqkYRCDYhkK55uxR9
         - did:ev:bmM8MpeJAGF2ky7YUnwgJGKxyHdCL6DGAUmEW
