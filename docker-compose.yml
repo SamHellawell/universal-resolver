@@ -227,4 +227,4 @@ services:
       NODE_HOST: ${uniresolver_driver_did_ev_node_url}
       ADDRESS_IM: ${uniresolver_driver_did_ev_address_im}
     ports:
-      - "8136:8080"
+      - "8136:8000"
